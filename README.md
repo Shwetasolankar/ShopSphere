@@ -34,6 +34,16 @@ MySQL database: `shopsphere_db`
 3. Configure your local database credentials in `application.properties`.
 4. Run `ShopsphereApplication.java` from your IDE or start the application using Maven.
 
+## Author
+
+**Shweta Solankar**
+
+- GitHub: https://github.com/Shwetasolankar
+- Portfolio: https://shwetasolankar.github.io/my-portfolio
+
+## Project Repository
+
+https://github.com/Shwetasolankar/ShopSphere
 ## Important Note
 Database credentials and other secrets should not be committed to GitHub. Configure them locally before running the application.
 
